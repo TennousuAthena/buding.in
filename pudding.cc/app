@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="zh-CN" xmlns:wb="http://open.weibo.com/wb">
+<head><script src="../../../https@archive.org/includes/analytics.js@v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app104.us.archive.org';v.server_ms=580;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="_static/js/playback.bundle.js@v=R56vIgLu" charset="utf-8"></script>
+<script type="text/javascript" src="_static/js/wombat.js@v=nWgLpXRB" charset="utf-8"></script>
+<script type="text/javascript">
+if (window._WBWombatInit) {
+  wbinfo = {}
+  wbinfo.url = "../pudding.cc_3A80/app";
+  wbinfo.timestamp = "20170204053359";
+  wbinfo.request_ts = "20170204053359";
+  wbinfo.prefix = "../../../https@web.archive.org/web/default.htm";
+  wbinfo.mod = "if_";
+  wbinfo.is_framed = false;
+  wbinfo.is_live = false;
+  wbinfo.coll = "web";
+  wbinfo.proxy_magic = "";
+  wbinfo.static_prefix = "_static/default.htm";
+  wbinfo.enable_auto_fetch = true;
+  wbinfo.auto_fetch_worker_prefix = "../../../https@web.archive.org/web/default.htm";
+  wbinfo.wombat_ts = "20170204053359";
+  wbinfo.wombat_sec = "1486186439";
+  wbinfo.wombat_scheme = "https";
+  wbinfo.wombat_host = "pudding.cc:80";
+  wbinfo.ignore_prefixes = ["__wb/default.htm",
+                            "_static/default.htm",
+                            "../../../https@web.archive.org/web/default.htm",
+                            "../analytics.archive.org/default.htm",
+                            "../../../https@analytics.archive.org/default.htm",
+                            "../../../https@analytics.archive.org/default.htm",
+                            "../archive.org/default.htm",
+                            "../../../https@archive.org/default.htm",
+                            "../../../https@archive.org/default.htm",
+                            "../faq.web.archive.org/default.htm",
+                            "../../../web.archive.org/default.htm",
+                            "../../../https@web.archive.org/default.htm"
+                            ];
+  wbinfo.wombat_opts = {};
+  window._WBWombatInit(wbinfo);
+}
+__wm.init("../../../https@web.archive.org/web");
+</script>
+<link rel="stylesheet" type="text/css" href="_static/css/banner-styles.css@v=HyR5oymJ" />
+<link rel="stylesheet" type="text/css" href="_static/css/iconochive.css@v=qtvMKcIJ" />
+<!-- End Wayback Rewrite JS Include -->
+
+    <meta charset="UTF-8">
+    <title>布丁动画 - 最火爆的二次元基♂地</title>
+    <meta property="wb:webmaster" content="b3fe4be733d58bd0"/>
+    <link rel="shortcut icon" href="../static.pudding.cc/logo/icon.png"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta property="wb:webmaster" content="ebd2831d5c9770dc"/>
+    <meta property="qc:admins" content="33501640744167633"/>
+        <meta name="baidu_union_verify" content="dc0048982ac520bddd853a80a681862b">
+        <script src="../../../https@https://js.t.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8"></script>
+    <style type="text/css">
+        body,h1,h2,ol,ul,li,p {margin:0; padding:0;}
+        body {background:#377574 url(static/img/index_desktop/bg_mobile.jpg) no-repeat; background-size:cover; color:#fff; font:14px/1.5 "Microsoft Yahei",Helvetica,"Hiragino Sans GB",Tahoma,Arial;}
+        h1,h2,h3 {font-weight:400; line-height:1em;}
+        a {color:#fff; text-decoration:none;}
+        li {list-style:none;}
+        #logo,.btn_download a {overflow:hidden; font-size:0; text-indent:-999px;}
+        #logo {margin:0 auto; background:url(../static.pudding.cc/logo/logo-s.png) no-repeat; width:147px; height:51px;margin-top:12px;}
+        #links {position:absolute; bottom:15px; width:100%; text-align:center;}
+        #links a {margin-left:5px; margin-right:5px;}
+        #main {margin-top:40px;}
+        #intro {text-align:center; margin-bottom:20px;}
+        #intro h2 {font-size:18px; margin-bottom:20px;}
+        #intro p {font-size:12px;}
+        .download {margin:0 auto; width:252px;}
+        .btn_download {float:left;}
+        .btn_download a {background-image:url(static/img/index_desktop/btn.png); background-size:242px 123px; display:block; width:121px; height:41px;}
+        .btn_download_ios a {background-position:0 -82px; margin-right:10px;}
+        .btn_download_ios a:hover {background-position:0 -41px;}
+        .btn_download_ios a:active {background-position:0 0;}
+        .btn_download_android a {background-position:-121px -82px;}
+        .btn_download_android a:hover {background-position:-121px -41px;}
+        .btn_download_android a:active {background-position:-121px 0;}
+        #feature {background:url(static/img/index_desktop/feature_mobile.png) no-repeat bottom center; background-size:60% auto; width:100%; height:430px; position:absolute; bottom:50px; z-index:-1;}
+        .comments,.item,#footer {display:none;}
+        .qrcode {
+            background: #fff;
+        }
+        .qrcode > * {
+            width: 100%;
+        }
+        @media only screen and (min-device-width:1024px) {
+            body {background:#fff; color:#333;}
+            #banner {position:relative; height:800px; overflow:hidden; background:#377574 url(static/img/index_desktop/bg.jpg) no-repeat; background-size:cover; color:#fff;}
+            #header {height:64px; line-height:64px; padding-left:40px; padding-right:40px;}
+            #logo {float:left; width:147px; height:51px; margin:0;margin-top:12px;}
+            #links {float:right; bottom:auto; right:40px; text-align:right;}
+            #links a {margin-left:10px; margin-right:10px;}
+            #main {width:1200px; height:400px; position:absolute; top:50%; left:50%; margin-top:-200px; margin-left:-600px;}
+            #intro,.download {text-align:left;}
+            #intro {margin-bottom:80px;}
+            #intro h2 {font-size:40px; margin-bottom:40px;}
+            #intro p {font-size:24px;}
+            .download {width:100%; height:82px;}
+            .btn_download {float:left;}
+            .btn_download a {width:242px; height:82px; background-size:484px 246px;}
+            .btn_download_ios a {background-position:0 -164px; margin-right:15px;}
+            .btn_download_ios a:hover {background-position:0 -82px;}
+            .btn_download_ios a:active {background-position:0 0;}
+            .btn_download_android a {background-position:-242px -164px;}
+            .btn_download_android a:hover {background-position:-242px -82px;}
+            .btn_download_android a:active {background-position:-242px 0;}
+            #function li {float:left; width:300px; padding:0 50px; text-align:center;}
+            #function li img {margin:20px auto 40px;}
+            #function h3 {font-size:20px;}
+            #function p {font-size:16px; color:#777;}
+            .comments {display:block; width:500px; height:48px; clear:both; margin-top:50px;}
+            .comments li {width:420px; height:48px; padding:20px 0 0 60px; position:relative;}
+            .comments li em {font-style:normal; margin-right:10px; color:#ff7d2b;}
+            .comments .avatar {border-radius:50px; width:48px; height:48px; position:absolute; top:20px; left:0;}
+            .comments img {border-radius:50px; width:48px;}
+            #feature {background:url(static/img/index_desktop/feature_pc.png) no-repeat; width:820px; height:680px; bottom:auto; left:40%; bottom:-40px; z-index:1;}
+            /*Item*/
+            .item,#footer {display:block;}
+            .item {text-align:center; padding-top:100px; font-size:18px; width:1200px; margin:0 auto;}
+            .item h2 {font-size:36px; margin-bottom:20px;}
+            .item p {margin-bottom:30px;}
+            #animation:after,#function:after {display:block;clear:both;content:"";visibility:hidden;height:0;}
+            #animation li {float:left; width:240px; height:340px; margin-bottom:20px; overflow:hidden; margin-left:48px; border-radius:10px;}
+            #animation li img {border-radius:10px; width:100%; height:auto;}
+            #more {clear:both; margin-top:60px; margin-bottom:100px;}
+            #more a {background:#ff7d2b; padding:20px 80px; border-radius:6px;}
+            /*Tips*/
+            #tips {background:rgba(0,0,0,.8); width:100%; height:85%; padding-top:15%; position:fixed; top:0; left:0; color:#fff; display:none; z-index:999;}
+            #tips .download {width:500px; height:82px; margin:50px auto;}
+            .qrcode {width:140px; height:140px; margin:0 auto;padding:15px;}
+            #footer {border-top:1px solid #eee; text-align:center; padding-top:40px; padding-bottom:40px; color:#aaa;}
+        }
+        @media only screen and (min-device-width:481px) and (max-device-width:1024px) {
+            body {background:#377574 url(static/img/index_desktop/bg.jpg) no-repeat; background-size:cover;}
+            #header {height:64px; line-height:64px; padding-left:40px; padding-right:40px;}
+            #logo {float:left; width:64px; height:64px; margin:0; background-size:64px 64px;}
+            #links {float:right; bottom:auto; right:40px; text-align:right;}
+            #links a {margin-left:10px; margin-right:10px;}
+            #main {margin-top:40px;}
+            #intro {margin-bottom:40px;}
+            #intro h2 {font-size:40px; margin-bottom:30px;}
+            #intro p {font-size:24px;}
+            .download {margin:0 auto; width:499px;}
+            .btn_download {float:left;}
+            .btn_download a {width:242px; height:82px; background-size:484px 246px;}
+            .btn_download_ios a {background-position:0 -164px; margin-right:15px;}
+            .btn_download_ios a:hover {background-position:0 -82px;}
+            .btn_download_ios a:active {background-position:0 0;}
+            .btn_download_android a {background-position:-242px -164px;}
+            .btn_download_android a:hover {background-position:-242px -82px;}
+            .btn_download_android a:active {background-position:-242px 0;}
+            #feature {background:url(static/img/index_desktop/feature_ipad.png) no-repeat bottom center; background-size:94% auto; height:350px; bottom:-40px;}
+        }
+        @media only screen and (min-device-width:481px) and (max-device-width:1024px) and (orientation:portrait) {
+            body {background:#377574 url(static/img/index_desktop/bg_mobile.jpg) no-repeat; background-size:cover;}
+            #main {margin-top:200px;}
+            #feature {bottom:20px;}
+        }
+    </style>
+    <script type="text/javascript" src="static/script/jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="static/script/web/main.js"></script>
+    <script type="text/javascript" src="static/script/jcarousellite.js"></script>
+    <script type="text/javascript">
+        $(function() {
+            $(".comments").jCarouselLite({
+                speed:600,
+                auto:3000,
+                visible:3,
+                vertical: true
+            });
+        });
+    </script>
+</head>
+
+<body>
+<div id="banner">
+    <div id="header">
+        <div id="logo">布丁动画</div>
+        <div id="links">
+            <a href="about/default.htm">关于我们</a>·<a href="contact/default.htm">联系我们</a>·<a href="opportunity/default.htm">加入我们</a>
+        </div>
+    </div>
+    <div id="main">
+        <div id="intro">
+            <h2>史上超全动画库，最火爆的二次元基♂地</h2>
+            <p>高清播放、离线缓存、分集吐槽、小组讨论一个都少不了</p>
+        </div>
+        <div class="download">
+            <div class="btn_download btn_download_ios">
+                <a href="ios_download_link/default.htm" id="down_ios_app">iPhone / iPad 立即下载</a>
+            </div>
+            <div class="btn_download btn_download_android">
+                <a href="android_download_link/default.htm" id="down_android_app">Android 立即下载</a>
+            </div>
+            <!--<p class="baidu">友情链接</p>-->
+        </div>
+        <div class="comments">
+            <ul id="slider">
+                <li><div class="avatar"><img src="static/img/index_desktop/avatar.jpg"></div><em>芹菜的小尾巴:</em>良心制作，细节也很到位，资源也很丰富哟！手机和iPad上都下载来使用了，强力支持！！！希望越做越好</li>
+                <li><div class="avatar"><img src="static/img/index_desktop/avatar_2.jpg"></div><em>Mr.dragin:</em>感觉得出制作的用心，ui，交互都简单明了，很舒服的应用</li>
+                <li><div class="avatar"><img src="static/img/index_desktop/avatar_3.jpg"></div><em>Minami801:</em>自从用了布丁追动漫，腰也不酸了，腿也不疼了，连上楼都有劲儿了～</li>
+                <li><div class="avatar"><img src="static/img/index_desktop/avatar_4.jpg"></div><em>我0552772:</em>对于二次元孩子来说真的太棒惹，真的是良心app啊啊阿！大爱么么哒！</li>
+                <li><div class="avatar"><img src="static/img/index_desktop/avatar_5.jpg"></div><em>。问。:</em>一边看布丁娘卖萌一边看番这辈子值了</li>
+                <li>
+                    <div class="avatar"><img src="static/img/index_desktop/avatar_6.jpg"></div><em>Biwusun:</em>
+                    基本上喜欢的动漫都有，速度也快，清晰度也很高，基本都是超清看的，非常好的app
+                </li>
+                <li>
+                    <div class="avatar"><img src="static/img/index_desktop/avatar_7.jpg"></div><em>传说中的M:</em>
+                    目前app上最好用的看番软件。方便好用，番全，强力推荐
+                </li>
+                <li>
+                    <div class="avatar"><img src="static/img/index_desktop/avatar_8.jpg"></div><em>土方蛋黄酱:</em>
+                    布丁娘资源很齐，非常方便
+                </li>
+                <li>
+                    <div class="avatar"><img src="static/img/index_desktop/avatar_9.jpg"></div><em>yukyan3763:</em>
+                    真的很好用，追番补番想看什么看什么♥️
+                </li>
+                <li>
+                    <div class="avatar"><img src="static/img/index_desktop/avatar_10.jpg"></div><em>异鬼:</em>
+                    有了布丁，再也不用手机上下好多个视频软件，想看什么还要一个个去搜，超级方便！
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div id="feature"></div>
+</div>
+<!--
+<div class="item">
+    <h2>史上最全动画库</h2>
+    <p>5000 部动画看到天黑黑</p>
+    <ul id="function">
+        <li>
+            <img src="/static/img/index_desktop/icon_new.png">
+            <h3>追新番，补旧番</h3>
+            <p>追完新番补旧番，超多动画，再也不用担心寂寞无番可看。</p>
+        </li>
+        <li>
+            <img src="/static/img/index_desktop/icon_download.png">
+            <h3>离线缓存</h3>
+            <p>网速不够快？流量不够用？没网？！离线缓存帮你忙！出门的路上也有动画看。</p>
+        </li>
+        <li>
+            <img src="/static/img/index_desktop/icon_group.png">
+            <h3>小组</h3>
+            <p>腐女绅士福利好，绘画壁纸美观佳。超多高质量小组，等你来发现。</p>
+        </li>
+    </ul>
+</div>
+-->
+<div class="item">
+    <h2>新番抢先看</h2>
+    <p>第一时间更新，追番永不落后</p>
+    <ul id="animation">
+                <li><a href="javascript:showTips()"><img src="../ww3.sinaimg.cn/large/66de9a53gw1f8qdon2w4wj20dc0iwtcr.jpg"></a></li>
+                <li><a href="javascript:showTips()"><img src="../ww3.sinaimg.cn/large/66de9a53gw1f8qdomr055j20dc0iwjxq.jpg"></a></li>
+                <li><a href="javascript:showTips()"><img src="../ww2.sinaimg.cn/large/66de9a53gw1f8qdomxa2zj20dc0iwdln.jpg"></a></li>
+                <li><a href="javascript:showTips()"><img src="../ww3.sinaimg.cn/large/66de9a53gw1f8qdomht2xj20dc0iwgqy.jpg"></a></li>
+                <li><a href="javascript:showTips()"><img src="../ww1.sinaimg.cn/large/66de9a53gw1f8qdolyog4j20dc0iwwjq.jpg"></a></li>
+                <li><a href="javascript:showTips()"><img src="../ww2.sinaimg.cn/large/66de9a53gw1f8qdon4h40j20dc0iw78k.jpg"></a></li>
+                <li><a href="javascript:showTips()"><img src="../ww3.sinaimg.cn/large/66de9a53gw1f8qdomxhtsj20dc0iw793.jpg"></a></li>
+                <li><a href="javascript:showTips()"><img src="../ww1.sinaimg.cn/large/66de9a53gw1f8qdomzrv9j20dc0iwwki.jpg"></a></li>
+            </ul>
+    <div id="more"><a href="javascript:showTips()">查看更多新番</a></div>
+    <wb:share-button appkey="2609598926" addition="simple" type="button" default_text="史上超全动画库，最火爆的二次元基♂地，看番就用布丁动画了@布丁娘" ralateuid="5126581695" picture_search="false" pic="http%3A%2F%2Fhuohua-static.qiniudn.com%2Fpudding.cc_share_005AWC5xgw1ek7cx867cgj30fk078wgm.jpg||http%3A%2F%2Fhuohua-static.qiniudn.com%2Fpudding.cc_share_005AWC5xgw1eo1x04homcj30fk078wg4.jpg||http%3A%2F%2Fhuohua-static.qiniudn.com%2Fpudding.cc_share_bd.jpg"></wb:share-button>
+    <div id="tips">
+        <h2>安装「布丁动画」追新番</h2>
+        <div class="download">
+            <div class="btn_download btn_download_ios">
+                <a href="ios_download_link/default.htm" id="down_ios_app">iPhone / iPad 立即下载</a>
+            </div>
+            <div class="btn_download btn_download_android">
+                <a href="android_download_link/default.htm" id="down_android_app">Android 立即下载</a>
+            </div>
+        </div>
+        <div class="qrcode">
+
+        </div>
+    </div>
+</div>
+<div id="footer">
+    &copy;布丁动画<br/>
+    <a key="56416187efbfb05993d4e9b4" logo_size="83x30" logo_type="business" href="../www.anquan.org/default.htm"><script src="../../../https@https://static.anquan.org/static/outer/js/aq_auth.js"></script></a>
+</div>
+<script type="text/javascript">
+    var isWX = false;
+    document.addEventListener('WeixinJSBridgeReady', function onBridgeReady() {
+        isWX = true;
+    });
+    $("div.btn_download_ios a").click(function(){
+        if (isWX) {
+            document.body.scrollTop = document.documentElement.scrollTop = 0;
+            $('#tips_box').show();
+            ga('send', 'event', 'home', 'download_click');
+        }
+    });
+    $('.qrcode').qrcode({
+        text: "direct_download/default.htm",
+        width: 140,
+        height: 140
+    });
+    $("#tips_box").click(function(){
+        $('#tips_box').hide();
+    });
+    function showTips(){
+        $('#tips').show();
+    }
+    $("#tips").click(function(){
+        $('#tips').hide();
+    });
+    $(function() {
+        registerLogEvents([{
+            target    : '#down_ios_app',
+            category  : "下载页iOS下载"
+        },{
+            target    : '#down_android_app',
+            category  : "下载页安卓下载"
+        }]);
+    })
+</script>
+<!--ipt>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//web.archive.org/web/20170204053359/http://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-28361364-43', 'auto');
+    ga('send', 'pageview');
+</scri-->
+<div class="hide">
+    <script src="../../../https@https://s4.cnzz.com/z_stat.php@id=1254668047&web_id=1254668047" language="JavaScript"></script>
+</div>
+</body>
+</html>
+                                                                                                                                                                                                                                                                                                   
+<!--
+playback timings (ms):
+  exclusion.robots.policy: 0.12
+  LoadShardBlock: 306.228 (3)
+  PetaboxLoader3.resolve: 273.993 (4)
+  exclusion.robots: 0.129
+  load_resource: 103.155
+  captures_list: 452.693
+  esindex: 0.015
+  PetaboxLoader3.datanode: 127.243 (4)
+  RedisCDXSource: 130.545
+  CDXLines.iter: 12.0 (3)
+-->
